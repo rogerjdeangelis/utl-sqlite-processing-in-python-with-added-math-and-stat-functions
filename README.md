@@ -1,6 +1,10 @@
 # utl-sqlite-processing-in-python-with-added-math-and-stat-functions
 Sqlite processing in python with added math and stat functions   
     %let pgm=utl-sqlite-processing-in-python-with-added-math-and-stat-functions;
+    
+    MAKE SURE IF YOU CUT AND PASTE THE PROCESS FROM README YOU SHIFT THE CODE 4 SPACES TO THE LEFT.
+    ;;;; HAVE TO BEGIN IN COLUMN ONE
+   
 
     SQL processing in python with added math and stat functions
 
